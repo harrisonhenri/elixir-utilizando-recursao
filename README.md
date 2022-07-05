@@ -19,11 +19,11 @@ Also, you can use this Project as you wish, be for study, be for make improvemen
 Clone the repo using
 
 ```
-$ git clone https://github.com/HarrisonHenri/elixir_list_filter
+$ git clone https://github.com/HarrisonHenri/elixir-utilizando-recursao
 ```
 
 ```
-$ cd elixir_list_filter
+$ cd elixir-utilizando-recursao
 ```
 
 Install all the required dependencies
